@@ -1,0 +1,2 @@
+AsofDate,client,strategy,ticker,descr,symbol,name,valueDate,monthCode,yearCode,bbrgType,tradeType,pstn,pnlDly,pnlMtd,pnlYtd,intraDay,notional,comments,price,updatedBy,lastUpdated,tickerUnderlying,priceUnderlying,ttype,putCall,openClose,optionStrike,optionDelta,canceled,canceled_by,canceled_time,tradeDate,id,EntityID
+"20250805",TEST,FARRMF,ABC123,Test Description,SYM,Test Name,2025-07-15,N,2025,Type,Futures,10,0,0,0,0,0,,0,,2025-07-15,,0,,,0,0,,,2025-07-15,1,E1

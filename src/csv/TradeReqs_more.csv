@@ -1,0 +1,5 @@
+AsofDate	Client	Strategy	Symbol	SecType	Contract	Long	Short	Source	Other	last_updated	id1	account
+2025-07-08	XYZCAP	OYFAR	BO	Comdty	BOQ26	100	0	script_generated	NA	2025-07-08	10001	ACC1
+2025-07-08	XYZCAP	OYFAR	C	Comdty	CH27	0	-50	script_generated	NA	2025-07-08	10002	ACC2
+2025-07-08	XYZCAP	OYFAR	W	Comdty	WZ26	30	0	script_generated	NA	2025-07-08	10003	ACC3
+2025-07-08	XYZCAP	OYFAR	SM	Comdty	SMU27	0	-25	script_generated	NA	2025-07-08	10004	ACC4
