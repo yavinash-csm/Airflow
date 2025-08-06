@@ -127,6 +127,9 @@ jobs:
           script: |
             const status = "${{ needs.test.result }}" === "success" ? "✅ TESTS PASSED" : "❌ TESTS FAILED";
             github.rest.issues.createComment({
+              issue_number: context.payload.pull_request.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
               body: `${status}\nBranch: ${context.payload.pull_request.head.ref}`
             });
   release:
